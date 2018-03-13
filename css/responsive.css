@@ -1,0 +1,63 @@
+@media screen and (min-width: 550px) {
+
+    .profile-image-container {
+        width: 40%;
+    }
+
+    .space {
+        width: 20%;
+    }
+
+    .profile-name {
+        width: 40%;
+        padding-top: 60px;
+    }
+
+    .section-head {
+        width: 100%;
+    }
+
+    .work-item {
+        width: 48%;
+    }
+
+    .skill-template {
+        width: 25%;
+    }
+
+    .big-header-font-style {
+        font-size: 1.2em;
+    }
+}
+
+@media screen and (min-width: 850px) {
+
+    .profile-image-container, .profile-name {
+        width: 35%;
+    }
+
+    .space {
+        width: 30%;
+    }
+
+    .container {
+        width: 90%;
+        margin: auto;
+    }
+
+    .section-head {
+        width: 100%;
+    }
+
+    .work-item {
+        width: 20%;
+    }
+
+    .skill-template {
+        width: 17%;
+    }
+
+    .big-header-font-style {
+        font-size: 1.5em;
+    }
+}
